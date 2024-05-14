@@ -5,3 +5,5 @@
 - **THÀNH VIÊN 1**: **Nguyễn Đức Anh**
 - **THÀNH VIÊN 2**: **Nguyễn Việt Hùng**
 
+- Mỗi thành viên sử dụng 1 branch
+- Trưởng nhóm sử dụng branch main
