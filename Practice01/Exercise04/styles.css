@@ -7,9 +7,8 @@ i{
 }
 
 .element-title {
-    flex: 0 0 150px; /* Điều chỉnh chiều rộng của phần tử element-title */
-    margin-right: 10px; /* Tạo khoảng cách giữa các phần tử */
-    padding-left: 3rem;
+    flex: 0 0 200px; /* Điều chỉnh chiều rộng của phần tử element-title */
+    margin-right: 5px; /* Tạo khoảng cách giữa các phần tử */
 }
 
 .element-input {
@@ -20,7 +19,7 @@ i{
     margin-bottom: 5px; /* Tạo khoảng cách giữa các dòng */
 }
 .container{
-    width: 54%;
+    width: 56%;
     height: auto;
 }
 * {
@@ -50,6 +49,7 @@ body{
     border-radius: 24px;
     margin-top: 3rem;
     margin-bottom: 3rem;
+    box-shadow: 3px 3px 5px #ccc;
 }
 hr{
     height: 4px;
@@ -73,6 +73,30 @@ input[type="datetime-local"] {
 textarea{
     width: 100%;
     font-size: 14px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+.form-action-buttons{
+    width: 50%;
+    margin-right: -19.3rem;
+}
+.navigation-buttons{
+    margin-left: -21rem;
+    width: 50%;
+}
+.form-action-buttons button{
+    padding: 5px;
+}
+.form-action-buttons button i {
+   margin-right: 5px;
+}
+.navigation-buttons button{
+    padding: 5px;
 }
 
 

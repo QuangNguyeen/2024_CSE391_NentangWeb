@@ -216,7 +216,12 @@
                     </div>
                     <div class="type-info-element">
                         <span class="element-title">Are you human?</span>
-                        <span class="element-input">9</span>
+                        <span class="element-input">
+                            <div id="captcha-container">
+                              <canvas id="captcha-image"></canvas>
+                              <label for="captcha-input"></label><input type="text" id="captcha-input" placeholder="Enter Captcha">
+                            </div>
+                        </span>
                     </div>
                 </div>
             </div>
@@ -231,7 +236,7 @@
                 </span>
                 </div>
                 <div class="form-action-buttons">
-                    <span><button><i class="fa-solid fa-upload"></i>Submit</button></span>
+                    <span><button type="button" id="check-button"><i class="fa-solid fa-upload"></i>Submit</button></span>
                     <span><button><i class="fa-solid fa-xmark"></i>Cancel</button></span>
                 </div>
             </footer>
