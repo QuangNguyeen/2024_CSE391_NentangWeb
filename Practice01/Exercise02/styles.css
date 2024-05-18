@@ -1,10 +1,18 @@
 :root{
     --main-color: #9E1D1D
 }
+body{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
 header{
     font-family: "Roboto Condensed", Tahoma, Geneva, Verdana, sans-serif;
-    color: var(--main-color);
+    font-size: 2rem;
     text-transform: uppercase;
+    color: var(--main-color);
+    margin-top: 1rem;
+    padding-left: 0.5rem;
+    border-left: 0.5rem solid var(--main-color);
 }
 .elements{
     font-family: "Roboto", Tahoma, Geneva, Verdana, sans-serif;
@@ -13,8 +21,16 @@ header{
     justify-content: space-between;
 }
 .element{
-    width: 31%;
+    width: 30%;
     text-align: left;
+    margin-top: 1.5rem;
+    font-size: 1rem;
+}
+.element .element-title h3{
+    text-transform: uppercase;
+}
+.element .element-describe p{
+    text-align: justify;
 }
 .element .element-title img{
     width: 100%;
@@ -23,6 +39,7 @@ header{
 .element-list-item{
     padding: 0;
     list-style-type: none;
+    line-height: 1.3rem;
 }
 .element-widget .element-item-icon {
     margin-left: 0;
