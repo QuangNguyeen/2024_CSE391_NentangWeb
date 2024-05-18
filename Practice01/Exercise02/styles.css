@@ -20,6 +20,9 @@ header{
     flex-wrap: wrap;
     justify-content: space-between;
 }
+.element:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 .element{
     width: 30%;
     text-align: left;
@@ -45,6 +48,10 @@ header{
     margin-left: 0;
     color: var(--main-color);
     font-size: 1.2rem;
+}
+.element-widget .element-item-icon i{
+    width: 1.2rem;
+    margin: 2px;
 }
 .element-widget .element-item-describe{
     padding: 0 0 0 5px;
