@@ -1,3 +1,34 @@
 :root{
     --main-color: #9E1D1D
 }
+header{
+    font-family: "Roboto Condensed", Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--main-color);
+    text-transform: uppercase;
+}
+.elements{
+    font-family: "Roboto", Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.element{
+    width: 31%;
+    text-align: left;
+}
+.element .element-title img{
+    width: 100%;
+    height: auto;
+}
+.element-list-item{
+    padding: 0;
+    list-style-type: none;
+}
+.element-widget .element-item-icon {
+    margin-left: 0;
+    color: var(--main-color);
+    font-size: 1.2rem;
+}
+.element-widget .element-item-describe{
+    padding: 0 0 0 5px;
+}
