@@ -12,6 +12,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -21,12 +28,12 @@
     &quot;assignee&quot;: &quot;QuangNguyeen&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://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@github.com/QuangNguyeen/2024_CSE391_NentangWeb&quot;,
-    &quot;accountId&quot;: &quot;7d0328e8-cce2-4314-8753-48d6bf62e186&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/QuangNguyeen/2024_CSE391_NentangWeb.git",
+    "accountId": "7d0328e8-cce2-4314-8753-48d6bf62e186"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -37,6 +44,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -66,6 +75,8 @@
       <workItem from="1716381740632" duration="142000" />
       <workItem from="1716382066377" duration="547000" />
       <workItem from="1716382647675" duration="2568000" />
+      <workItem from="1716397592382" duration="710000" />
+      <workItem from="1716446257036" duration="334000" />
     </task>
     <servers />
   </component>
