@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d14c1a0-a680-42eb-befd-ae1bab897acf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MyProfile/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProfile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProfile/js/bootstrap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,35 +32,45 @@
     &quot;assignee&quot;: &quot;QuangNguyeen&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/QuangNguyeen/2024_CSE391_NentangWeb.git",
-    "accountId": "7d0328e8-cce2-4314-8753-48d6bf62e186"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/QuangNguyeen/2024_CSE391_NentangWeb.git&quot;,
+    &quot;accountId&quot;: &quot;7d0328e8-cce2-4314-8753-48d6bf62e186&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2gp5aFs3nsRmciQ5pAaiR4L0w8g" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/macbook/Documents/frontEnd/2024_CSE391_NentangWeb/MyProfile",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyProfile" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +90,12 @@
       <workItem from="1716382066377" duration="547000" />
       <workItem from="1716382647675" duration="2568000" />
       <workItem from="1716397592382" duration="710000" />
-      <workItem from="1716446257036" duration="334000" />
+      <workItem from="1716446257036" duration="1273000" />
+      <workItem from="1716450448232" duration="32000" />
+      <workItem from="1716451151228" duration="308000" />
+      <workItem from="1716452482855" duration="1738000" />
+      <workItem from="1716477129061" duration="500000" />
+      <workItem from="1716533830604" duration="9560000" />
     </task>
     <servers />
   </component>
@@ -93,5 +112,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
