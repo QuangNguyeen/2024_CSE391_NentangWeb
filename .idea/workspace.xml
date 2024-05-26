@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d14c1a0-a680-42eb-befd-ae1bab897acf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/30Days_Javascript/Day03/Day03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30Days_Javascript/Day03/Level02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30Days_Javascript/Day03/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2024_CSE391_NentangWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2024_CSE391_NentangWeb.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice01/Exercise05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practice01/Exercise05/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -109,7 +103,7 @@
       <workItem from="1716533830604" duration="9560000" />
       <workItem from="1716635717274" duration="1543000" />
       <workItem from="1716651963848" duration="41000" />
-      <workItem from="1716698166667" duration="2237000" />
+      <workItem from="1716698166667" duration="3362000" />
     </task>
     <servers />
   </component>
