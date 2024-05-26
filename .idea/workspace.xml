@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d14c1a0-a680-42eb-befd-ae1bab897acf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MyProfile/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProfile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProfile/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30Days_Javascript/Day03/Day03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30Days_Javascript/Day03/Level02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30Days_Javascript/Day03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2024_CSE391_NentangWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2024_CSE391_NentangWeb.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice01/Exercise05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practice01/Exercise05/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -54,9 +58,13 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
+    "Node.js.Day03.js.executor": "Run",
+    "Node.js.Level02.js.executor": "Run",
+    "Node.js.scripts.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/macbook/Documents/frontEnd/2024_CSE391_NentangWeb/MyProfile",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +77,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MyProfile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practice01/Exercise05" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -96,6 +107,9 @@
       <workItem from="1716452482855" duration="1738000" />
       <workItem from="1716477129061" duration="500000" />
       <workItem from="1716533830604" duration="9560000" />
+      <workItem from="1716635717274" duration="1543000" />
+      <workItem from="1716651963848" duration="41000" />
+      <workItem from="1716698166667" duration="2237000" />
     </task>
     <servers />
   </component>
